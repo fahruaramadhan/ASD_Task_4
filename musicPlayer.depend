@@ -83,3 +83,24 @@
 1475999479 source:e:\c++\asd_task_4-master\asd_task_4-master\player.cpp
 	"player.h"
 
+1475999882 source:d:\asd_task_4-master\list.cpp
+	"list.h"
+
+1475998858 d:\asd_task_4-master\list.h
+	<string>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1475999627 source:d:\asd_task_4-master\main.cpp
+	"player.h"
+
+1475998947 d:\asd_task_4-master\player.h
+	"list.h"
+
+1475999921 source:d:\asd_task_4-master\player.cpp
+	"player.h"
+
